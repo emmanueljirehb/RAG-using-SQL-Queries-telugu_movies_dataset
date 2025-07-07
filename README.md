@@ -1,4 +1,5 @@
 
+![ChatGPT Image Jul 4, 2025, 10_29_09 AM](https://github.com/user-attachments/assets/bff5a264-e4d8-4933-b6b9-c129e9fec439)
 # 🎬 RAG using SQL Queries - Telugu Movies Dataset
 
 This project demonstrates **Retrieval-Augmented Generation (RAG)** using a custom **Telugu Movies dataset**. It combines **LLMs** with SQL-based data retrieval to generate contextual and accurate responses based on real-world movie data.
@@ -100,6 +101,7 @@ The dataset includes information such as:
 > **Response**: _"The top 3 rated Telugu movies directed by Trivikram are Athadu, Ala Vaikunthapurramuloo, and Julayi, with ratings above 8."_  
 ![image](https://github.com/user-attachments/assets/0a883407-18de-4666-9420-8e852fd18f3b)
 
+![Gemini_Generated_Image_jwy9aajwy9aajwy9](https://github.com/user-attachments/assets/4c8409ca-67ab-495f-a684-d4a841107bb8)
 
 ---
 
